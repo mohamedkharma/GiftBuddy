@@ -1,2 +1,1 @@
-# GiftBuddy
-GiftBuddy is a store where you can shop gifts for your family and friends
+# CSC59867_Senior_Project
